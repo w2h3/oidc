@@ -1,3 +1,10 @@
 {"public":true,"redirects": [
     { "source": "/favicon.ico", "destination": "https://ssecurityrise.com/favicon.ico", "permanent": true }
-  ]}
+  ],
+  "rewrites": [
+    {
+      "source": "/testb",
+      "destination": "https://test-hook-git-5ce89f-intigriti-vtest314-second-testing-env-ent.vercel.app"
+    }
+  ]
+}
